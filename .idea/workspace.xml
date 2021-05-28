@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2641cc99-9205-43a0-a640-e0d710cb60c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="164" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1pX8KLJE6xlksSVkNTg6ri6qGg1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.14648438" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Politechnika\SI\SI1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="GraphPanel (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.GraphPanel" />
+      <module name="SI1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GraphPanel" />
+      <module name="SI1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="SI1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.SimpleGraph" />
+      <module name="SI1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SI1.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/SI1_jar/SI1.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.GraphPanel (1)" />
+        <item itemvalue="Application.GraphPanel" />
+        <item itemvalue="Application.SimpleGraph" />
+        <item itemvalue="JAR Application.SI1.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2641cc99-9205-43a0-a640-e0d710cb60c7" name="Default Changelist" comment="" />
+      <created>1615318009923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615318009923</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1245" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1615319237321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1245" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1615319237321" />
+    <state x="1130" y="308" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1615469296763">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1130" y="308" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615469296763" />
+    <state x="1648" y="409" width="544" height="243" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1616622039446">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1236" y="409" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1616192799490" />
+    <state x="1648" y="409" width="544" height="243" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1616622039446" />
+    <state x="1037" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1615465335195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1037" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615465335195" />
+    <state x="1170" y="271" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1615390455162">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1170" y="271" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615390455162" />
+    <state x="420" y="279" key="FileChooserDialogImpl" timestamp="1616513804002">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="315" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1616242571574" />
+    <state x="420" y="279" key="FileChooserDialogImpl/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1616513804002" />
+    <state width="1248" height="275" key="GridCell.Tab.0.bottom" timestamp="1622194904835">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1248" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617216000061" />
+    <state width="1248" height="275" key="GridCell.Tab.0.bottom/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1622194904835" />
+    <state width="914" height="399" key="GridCell.Tab.0.bottom/2560.0.1920.1040/0.0.2560.1040@2560.0.1920.1040" timestamp="1616533782213" />
+    <state width="1248" height="275" key="GridCell.Tab.0.center" timestamp="1622194904835">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1248" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617216000061" />
+    <state width="1248" height="275" key="GridCell.Tab.0.center/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1622194904835" />
+    <state width="914" height="399" key="GridCell.Tab.0.center/2560.0.1920.1040/0.0.2560.1040@2560.0.1920.1040" timestamp="1616533782213" />
+    <state width="1248" height="275" key="GridCell.Tab.0.left" timestamp="1622194904835">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1248" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617216000061" />
+    <state width="1248" height="275" key="GridCell.Tab.0.left/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1622194904835" />
+    <state width="914" height="399" key="GridCell.Tab.0.left/2560.0.1920.1040/0.0.2560.1040@2560.0.1920.1040" timestamp="1616533782213" />
+    <state width="1248" height="275" key="GridCell.Tab.0.right" timestamp="1622194904835">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1248" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617216000061" />
+    <state width="1248" height="275" key="GridCell.Tab.0.right/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1622194904835" />
+    <state width="914" height="399" key="GridCell.Tab.0.right/2560.0.1920.1040/0.0.2560.1040@2560.0.1920.1040" timestamp="1616533782213" />
+    <state width="1234" height="317" key="GridCell.Tab.1.bottom" timestamp="1616680279599">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615464677963" />
+    <state width="1234" height="317" key="GridCell.Tab.1.bottom/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1616680279599" />
+    <state width="1234" height="317" key="GridCell.Tab.1.center" timestamp="1616680279599">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615464677963" />
+    <state width="1234" height="317" key="GridCell.Tab.1.center/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1616680279599" />
+    <state width="1234" height="317" key="GridCell.Tab.1.left" timestamp="1616680279599">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615464677963" />
+    <state width="1234" height="317" key="GridCell.Tab.1.left/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1616680279599" />
+    <state width="1234" height="317" key="GridCell.Tab.1.right" timestamp="1616680279599">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="914" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615464677963" />
+    <state width="1234" height="317" key="GridCell.Tab.1.right/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1616680279599" />
+    <state x="1173" y="99" key="SettingsEditor" timestamp="1616511866454">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="880" y="99" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1615469380659" />
+    <state x="1173" y="99" key="SettingsEditor/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1616511866454" />
+    <state x="1018" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1617445008742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1018" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617445008742" />
+    <state x="1357" y="345" key="com.intellij.ide.util.TipDialog/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1616575222483" />
+    <state x="3578" y="345" key="com.intellij.ide.util.TipDialog/2560.0.1920.1040/0.0.2560.1040@2560.0.1920.1040" timestamp="1616532516821" />
+    <state x="1573" y="0" width="994" height="1047" key="dock-window-1" timestamp="1615983522331">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1573" y="0" width="994" height="1047" key="dock-window-1/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1615983522331" />
+    <state x="685" y="145" key="new project wizard" timestamp="1616242587181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="685" y="145" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1616242587181" />
+    <state x="888" y="140" key="refactoring.ChangeSignatureDialog" timestamp="1616000477371">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="666" y="140" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615463425628" />
+    <state x="888" y="140" key="refactoring.ChangeSignatureDialog/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1616000477371" />
+    <state x="1461" y="244" key="run.anything.popup" timestamp="1616679051625">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1096" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1615457349886" />
+    <state x="1461" y="244" key="run.anything.popup/2560.0.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1616679051625" />
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1615464277750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1615464277750" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SI1$Main.ic" NAME="Main Coverage Results" MODIFIED="1616018860489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
